@@ -1,5 +1,7 @@
 {
     "recommendations": [
-        "vscjava.vscode-java-pack"
+        "vscjava.vscode-java-pack",
+        "dotjoshjohnson.xml",
+        "mwpb.java-prettier-formatter"
     ]
 }
